@@ -1,1 +1,1 @@
-# Can I use `BarcodeDetecotr`?
+# Can I use `BarcodeDetector`?
